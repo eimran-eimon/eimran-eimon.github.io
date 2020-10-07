@@ -1,6 +1,7 @@
+<style>body {text-align: justify}</style>
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
 
 <u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 <h1 class="western" align="center"><b>Eimran Hossain Eimon</b></h1>
@@ -24,25 +24,25 @@ Education
     * CGPA: 3.15/4.00
     * Bachelor of Science in Engineering
     * Department: Computer Science & Engineering (CSE) 
-    * Thesis: "Superpixel Based Inter-Frame Prediction for Video Coding"
+    * Thesis: "***Superpixel Based Inter-Frame Prediction for Video Coding***"
     * Supervisors: [Dr. Ashek Ahmmed](https://scholar.google.com/citations?hl=en&user=inQobUgAAAAJ), [Dr. Shahid Uz Zaman](http://vu.edu.bd/cse/faculty-members/prof-drmd-shahid-uz-zaman) 
 
-Research Experience
+Work Experience
 ======
 
 * **Research Assistant** (Feb 2018 - Oct 2019)
-  * Project 1: "Superpixel Based Inter-Frame Prediction for Video Coding"
+  * "Superpixel Based Inter-Frame Prediction for Video Coding"
     * `Superpixel`, `Affine Motion Model`
     * Publication: [doi:10.1109/ICAEE48663.2019.8975508](http://dx.doi.org/10.1109/ICAEE48663.2019.8975508)
-  * Project 2: "Classification Based Inter-Frame Prediction in Video Compression"
+  * "Classification Based Inter-Frame Prediction in Video Compression"
     * `Motion Discontinuity`, `Complex Motion Model`, `Neural Network`
     * Publication: [doi:10.1109/ICAEE48663.2019.8975416](http://dx.doi.org/10.1109/ICAEE48663.2019.8975416)
   
  
-Work Experience
-======
+<hr>
+
 * <ins>**Full-Stack Software Engineer**</ins> (Mar 2020 - Present)
-  at `CoKreates Limited`
+  at ***CoKreates Limited***
   
   As part of its digitalization process, the Bangladesh government has developed Government Resource Planning (GRP), an Enterprise Resource Planning (ERP) solution of its own, to manage o ce works electronically to optimize and economize assets and expenses. GRP is consists of eleven modules. 
   From which, I have worked on the “Accounts Module”. Accounts Module is designed to manage all kinds of nancial activities records and transactions electronically to facilitate extensive search along with the generation of standard accounting reports.
@@ -52,7 +52,7 @@ Work Experience
   * Front-end: Angular
   
 * <ins>**Computer Vision Engineer**</ins> (Nov 2019 - Mar 2020)
-at `Business Accelerate BD Ltd.`
+at ***Business Accelerate BD Ltd.***
 
     **Project - People Counter**: 
     The primary goal of this project is to nd some useful business insight using the live CCTV feed
@@ -75,7 +75,7 @@ at `Business Accelerate BD Ltd.`
  
  
  * <ins>**Full-Stack Software Engineer**</ins> (Nov 2018 - Nov 2019)
-   at `E-Horizon IT Ltd.`
+   at ***E-Horizon IT Ltd.***
    
     Major Accomplishments:
     * Developed a system called “**Media Monitor & Archive**” for a Govt. Counter Terrorism Agency.

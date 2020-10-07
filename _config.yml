@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eimon"
+title                    : "Eimran"
 title_separator          : "-"
 name                     : &name "Eimran Hossain"
 description              : &description "ABC"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         : # "https://scholar.google.com/citations?user=NnT_iccAAAAJ&hl=en"
   foursquare       :
-  github           : "https://github.com/eimran-eimon"
+  github           : "eimran-eimon"
   google_plus      :
   keybase          :
   instagram        :
