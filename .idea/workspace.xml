@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e6b17db-841d-4db0-a391-32b22f2bea3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_sidebar.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602093926823</updated>
       <workItem from="1602093928006" duration="4876000" />
-      <workItem from="1602099639660" duration="5845000" />
+      <workItem from="1602099639660" duration="9648000" />
     </task>
     <servers />
   </component>
@@ -53,9 +56,13 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="281" y="96" width="870" height="600" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/67.27.1299.741@67.27.1299.741" timestamp="1602097558370" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602104524275">
+    <state x="239" y="27" width="944" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602106620129">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1602104524275" />
+    <state x="239" y="27" width="944" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1602106620129" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602108872638">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1602108872638" />
   </component>
 </project>

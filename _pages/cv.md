@@ -1,18 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
 
-<u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 <h1 class="western" align="center"><b>Eimran Hossain Eimon</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span><a href="http://is.gd/geiger_cites">Also available in PDF format.</a></span></p>
 <p style="line-height: 1.5;" align="center"><span><a href="http://is.gd/geiger_cites">Google Scholar</a> || <a href="https://ieeexplore.ieee.org/author/37087405667">IEEE Xplore</a></span></p>
 
 <style>body {text-align: justify}</style>
@@ -26,7 +24,7 @@ Education
     * CGPA: 3.15/4.00
     * Bachelor of Science in Engineering
     * Department: Computer Science & Engineering (CSE) 
-    * Thesis: "***Superpixel Based Inter-Frame Prediction for Video Coding***"
+    * Thesis: "Superpixel Based Inter-Frame Prediction for Video Coding"
     * Supervisors: [Dr. Ashek Ahmmed](https://scholar.google.com/citations?hl=en&user=inQobUgAAAAJ), [Dr. Shahid Uz Zaman](http://vu.edu.bd/cse/faculty-members/prof-drmd-shahid-uz-zaman) 
 
 Work Experience
@@ -56,7 +54,7 @@ Work Experience
 * <ins>**Computer Vision Engineer**</ins> (Nov 2019 - Mar 2020)
 at ***Business Accelerate BD Ltd.***
 
-    **Project - People Counter**: 
+    Project - People Counter: 
     The primary goal of this project is to nd some useful business insight using the live CCTV feed
     of a store. Some main goals include:
     * Count the number of the person entered in and exited from the store.
@@ -80,7 +78,7 @@ at ***Business Accelerate BD Ltd.***
    at ***E-Horizon IT Ltd.***
    
     Major Accomplishments:
-    * Developed a system called “**Media Monitor & Archive**” for a Govt. Counter Terrorism Agency.
+    * Developed a system called “Media Monitor & Archive” for a Govt. Counter Terrorism Agency.
         * Server Environment: NodeJS
         * Back-end: PHP, JavaScript
         * Database: MySQL
@@ -121,8 +119,23 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-  
+
+
+Awards
+======
+* **IEEE AWARD WINNING APP ([Farmer Assistant](https://sites.google.com/view/eimonportfolio/farmer-assistant)) - 2016**
+ 
+    The main purpose of the android application includes:
+    * Ensure the exact amount of UREA in the cultivation of land.
+    * Remove the limitations of use of LCC(Leaf Color Chart).
+    * Help color-blind farmers.
+    * Increase the production.
+    * Minimize the production cost.
+    * Reduce the environment pollution by using exact amount of UREA.
+
 Service and leadership
 ======
+* Team leader of the team **Return Zero**, RUET. Here, we have worked on developing different 
+type technology for cultivation land, and tried to help farmers to maximize their crops production.  
 * Notre Dame Science Club.
 * Notre Dame Math Club.
