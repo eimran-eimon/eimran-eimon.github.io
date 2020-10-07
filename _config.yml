@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computer Vision Engineer"
+title                    : "Eimon"
 title_separator          : "-"
 name                     : &name "Eimran Hossain"
-description              : &description ""
-url                      : https://eimran-eimon.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "ABC"
+url                      : https://eimran-eimon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://eimran-eimon.github.io/"
+repository               : "https://eimran-eimon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,17 +84,15 @@ author:
   avatar           : "profile.png"
   bio              : "Computer Vision Engineer"
   location         : "Dhaka, Bangladesh"
-  employer         : "https://bcc.gov.bd/"
-  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=NnT_iccAAAAJ&hl=en"
-  email            :
+  email            : "mdeimranhossaineimon@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://scholar.google.com/citations?user=NnT_iccAAAAJ&hl=en"
+  facebook         : # "https://scholar.google.com/citations?user=NnT_iccAAAAJ&hl=en"
   foursquare       :
   github           : "https://github.com/eimran-eimon"
   google_plus      :
@@ -102,18 +100,18 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/eimraneimon/"
+  linkedin         : "eimraneimon"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/5048696/eimran-hossain-eimon"
+  stackoverflow    : "5048696/eimran-hossain-eimon"
   steam            :
   tumblr           :
-  twitter          : "https://www.youtube.com/channel/UC_8jVSaBi6rZGX0bdmgZa8A?view_as=subscriber"
+  twitter          : # "https://www.youtube.com/channel/UC_8jVSaBi6rZGX0bdmgZa8A?view_as=subscriber"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UC_8jVSaBi6rZGX0bdmgZa8A?view_as=subscriber"
   wikipedia        :
 
 
