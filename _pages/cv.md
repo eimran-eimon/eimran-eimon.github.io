@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
 
 <u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 <h1 class="western" align="center"><b>Eimran Hossain Eimon</b></h1>
