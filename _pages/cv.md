@@ -1,4 +1,3 @@
-<style>body {text-align: justify}</style>
 ---
 layout: archive
 title: "CV"
@@ -14,6 +13,8 @@ redirect_from:
 <h1 class="western" align="center"><b>Eimran Hossain Eimon</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
 <p style="line-height: 1.5;" align="center"><span><a href="http://is.gd/geiger_cites">Google Scholar</a> || <a href="https://ieeexplore.ieee.org/author/37087405667">IEEE Xplore</a></span></p>
+
+<style>body {text-align: justify}</style>
 
 Education
 ======
