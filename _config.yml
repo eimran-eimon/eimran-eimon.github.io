@@ -257,15 +257,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _me
- - scope:
- path: ""
- type: me
- values:
-   layout: single
-   author_profile: true
-   share: true
-   comment: true
 
 # Sass/SCSS
 sass:
