@@ -11,7 +11,7 @@ redirect_from:
 <h1 class="western" align="center"><b>Eimran Hossain Eimon</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
 <p style="line-height: 1.5;" align="center"><span><a href="http://is.gd/geiger_cites">Also available in PDF format.</a></span></p>
-<p style="line-height: 1.5;" align="center"><span><a href="http://is.gd/geiger_cites">Google Scholar</a> || <a href="https://ieeexplore.ieee.org/author/37087405667">IEEE Xplore</a></span></p>
+<p style="line-height: 1.5;" align="center"><span><a href="https://scholar.google.com/citations?user=NnT_iccAAAAJ&hl=en">Google Scholar</a> || <a href="https://ieeexplore.ieee.org/author/37087405667">IEEE Xplore</a></span></p>
 
 <style>body {text-align: justify}</style>
 
@@ -30,7 +30,7 @@ Education
 Work Experience
 ======
 
-* **Research Assistant** (Feb 2018 - Oct 2019)
+* <ins>**Research Assistant**</ins> (Feb 2018 - Oct 2019) at ***RUET***
   * "Superpixel Based Inter-Frame Prediction for Video Coding"
     * `Superpixel`, `Affine Motion Model`
     * Publication: [doi:10.1109/ICAEE48663.2019.8975508](http://dx.doi.org/10.1109/ICAEE48663.2019.8975508)
@@ -44,8 +44,8 @@ Work Experience
 * <ins>**Full-Stack Software Engineer**</ins> (Mar 2020 - Present)
   at ***CoKreates Limited***
   
-  As part of its digitalization process, the Bangladesh government has developed Government Resource Planning (GRP), an Enterprise Resource Planning (ERP) solution of its own, to manage o ce works electronically to optimize and economize assets and expenses. GRP is consists of eleven modules. 
-  From which, I have worked on the “Accounts Module”. Accounts Module is designed to manage all kinds of nancial activities records and transactions electronically to facilitate extensive search along with the generation of standard accounting reports.
+  As part of its digitalization process, the Bangladesh government has developed Government Resource Planning (GRP), an Enterprise Resource Planning (ERP) solution of its own, to manage works electronically to optimize and economize assets and expenses.
+  GRP is consists of eleven modules. From which, I have worked on the “Accounts Module”. Accounts Module is designed to manage all kinds of financial activities records and transactions electronically to facilitate extensive search along with the generation of standard accounting reports.
   * Back-end: Java Spring Boot (Microservice Architecture)
   * Report Generation Tool: Jasper
   * Database: PostgreSQL
@@ -55,13 +55,13 @@ Work Experience
 at ***Business Accelerate BD Ltd.***
 
     Project - People Counter: 
-    The primary goal of this project is to nd some useful business insight using the live CCTV feed
+    The primary goal of this project is to find some useful business insight using the live CCTV feed
     of a store. Some main goals include:
     * Count the number of the person entered in and exited from the store.
     * Count the number of the person in a zone (like no. of people playing VR games).
     * Find the average time spent by a customer in a zone.
-    * Generate a heatmap using customer’s trajectories.
-    * Store the age, gender, and emotion of a customer when they are in a speci c zone(e.g. when they are seeing
+    * Generate a heatmap using a customer’s trajectories.
+    * Store the age, gender, and emotion of a customer when they are in a specific zone(e.g. when they are seeing
     a new product or buying a product)
     
     I have used YOLOv3(You Only Look Once), MobilenetSSD(Single Shot Detection), Fast-RCNN for detecting

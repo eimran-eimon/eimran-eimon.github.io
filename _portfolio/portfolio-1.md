@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Farmer Assistant (Android App)"
+excerpt: "
+<img src='/files/ieee.png' 
+style= 'border: 3px solid orange; width: 600px ' >
+
+<br/>
+<br/>
+
+**IEEE MOTIVATIONAL AWARD WINNING APP – 2016** "
+
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<video width='320' height='240' controls>
+  <source src='/files/fbird.mp4' type='video/mp4'>
+Your browser does not support the video tag.
+</video>

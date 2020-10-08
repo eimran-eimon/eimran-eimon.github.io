@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e6b17db-841d-4db0-a391-32b22f2bea3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +33,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iYoXY4aPqB8ELKqE8k4yVUDjWq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_portfolio" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,6 +53,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_portfolio" />
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,6 +70,7 @@
       <updated>1602093926823</updated>
       <workItem from="1602093928006" duration="4876000" />
       <workItem from="1602099639660" duration="9648000" />
+      <workItem from="1602152222621" duration="16865000" />
     </task>
     <servers />
   </component>
@@ -60,9 +86,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="239" y="27" width="944" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1602106620129" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602108872638">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602179699977">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1602108872638" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1602179699977" />
   </component>
 </project>
