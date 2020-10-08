@@ -7,7 +7,6 @@
     <list default="true" id="8e6b17db-841d-4db0-a391-32b22f2bea3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,8 @@
       <updated>1602093926823</updated>
       <workItem from="1602093928006" duration="4876000" />
       <workItem from="1602099639660" duration="9648000" />
-      <workItem from="1602152222621" duration="28402000" />
+      <workItem from="1602152222621" duration="29380000" />
+      <workItem from="1602198393635" duration="620000" />
     </task>
     <servers />
   </component>
@@ -78,9 +78,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="239" y="27" width="944" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1602106620129" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602193184849">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602198499557">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1602193184849" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1602198499557" />
   </component>
 </project>
