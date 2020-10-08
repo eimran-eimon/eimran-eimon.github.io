@@ -7,8 +7,9 @@ style= 'border: 3px solid orange; width: 600px '>
 
 collection: portfolio
 ---
+<hr>
 
-<video width='320' height='240' controls>
-  <source src='/files/fbird.mp4' type='video/mp4'>
-Your browser does not support the video tag.
-</video>
+* E-commerce type application.
+* By using this app you can subscribe to a service, and with that service, you can wear a new shirt every
+day. [See More](https://sites.google.com/view/eimonportfolio/try-new)
+* [Application Link](https://github.com/eimran-eimon/Industrial-Attachment-Techcare)

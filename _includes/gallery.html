@@ -1,0 +1,105 @@
+<html lang="en">
+
+<head>
+<style>
+.gallery {
+  display: flex;
+  padding: 6px;
+  transition: .3s;
+}
+.gallery:hover .gallery__image {
+  filter: grayscale(1);
+}
+.gallery__column {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+.gallery__link {
+  margin: 2px;
+  overflow: hidden;
+}
+.gallery__link:hover .gallery__image {
+  filter: grayscale(0);
+}
+.gallery__link:hover .gallery__caption {
+  opacity: 1;
+}
+.gallery__thumb {
+  position: relative;
+}
+.gallery__image {
+  display: block;
+  width: 100%;
+  transition: .3s;
+}
+.gallery__image:hover {
+  transform: scale(1.2);
+}
+.gallery__caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 25px 15px 15px;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: deepskyblue;
+  opacity: 0;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  transition: .3s;
+}
+</style>
+</head>
+<body>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap" rel="stylesheet">
+
+<div class="gallery">
+	<div class="gallery__column">
+		<a href="../files/gallery-1.jpg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="../files/gallery-1.jpg" alt="Mobile App Contest" class="gallery__image">
+				<figcaption class="gallery__caption">Mobile App Contest</figcaption>
+			</figure>
+		</a>
+		<a href="../files/gallery-6.jpg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="../files/gallery-6.jpg" alt="National Hackathon" class="gallery__image">
+				<figcaption class="gallery__caption">National Hackathon</figcaption>
+			</figure>
+		</a>
+
+	</div>
+	<div class="gallery__column">
+		<a href="../files/gallery-4.jpg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="../files/gallery-4.jpg" alt="National Hackathon" class="gallery__image">
+				<figcaption class="gallery__caption">National Hackathon</figcaption>
+			</figure>
+		</a>
+
+		<a href="../files/gallery-2.jpg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="../files/gallery-2.jpg" alt="Techcare Technologies limited" class="gallery__image">
+				<figcaption class="gallery__caption">Techcare Technologies limited</figcaption>
+			</figure>
+		</a>
+	</div>
+	<div class="gallery__column">
+		<a href="../files/gallery-3.jpg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="../files/gallery-3.jpg" alt="National Hackathon" class="gallery__image">
+				<figcaption class="gallery__caption">National Hackathon</figcaption>
+			</figure>
+		</a>
+		<a href="../files/gallery-5.jpg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="../files/gallery-5.jpg" alt="Techcare Technologies limited" class="gallery__image">
+				<figcaption class="gallery__caption">Techcare Technologies limited </figcaption>
+			</figure>
+		</a>
+	</div>
+</div>
+</body>
+
+</html>
