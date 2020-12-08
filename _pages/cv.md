@@ -32,18 +32,6 @@ Education
 
 Work Experience
 ======
-
-* <ins>**Research Assistant**</ins> (Feb 2018 - Oct 2019) at ***RUET***
-  * "Superpixel Based Inter-Frame Prediction for Video Coding"
-    * `Superpixel`, `Affine Motion Model`
-    * Publication: [doi:10.1109/ICAEE48663.2019.8975508](http://dx.doi.org/10.1109/ICAEE48663.2019.8975508)
-  * "Classification Based Inter-Frame Prediction in Video Compression"
-    * `Motion Discontinuity`, `Complex Motion Model`, `Neural Network`
-    * Publication: [doi:10.1109/ICAEE48663.2019.8975416](http://dx.doi.org/10.1109/ICAEE48663.2019.8975416)
-  
- 
-<hr>
-
 * <ins>**Full-Stack Software Engineer**</ins> (Mar 2020 - Present)
   at ***CoKreates Limited***
   
