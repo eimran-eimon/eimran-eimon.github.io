@@ -69,7 +69,7 @@ at ***Business Accelerate BD Ltd.***
    at ***E-Horizon IT Ltd.***
    
     Major Accomplishments:
-    * Developed a system called “Media Monitor & Archive” for a Govt. Counter Terrorism Agency.
+    * Developed a system called “Media Monitor & Archive” for a Government Agency.
         * Server Environment: NodeJS
         * Back-end: PHP, JavaScript
         * Database: MySQL
